@@ -1,24 +1,25 @@
 # bus
 
-## Project setup
-```
-npm install
-```
+车队下司机信息查询
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![车队下司机信息查询](./assets/1.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+司机违章
 
-### Lints and fixes files
-```
-npm run lint
-```
+![司机违章](./assets/2.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+车队违章
+
+![车队违章](./assets/1.png)
+
+司机信息录入
+
+![司机信息录入](./assets/4.png)
+
+车辆信息录入
+
+![车辆信息录入](./assets/5.png)
+
+违章信息录入
+
+![违章信息录入](./assets/6.png)
